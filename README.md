@@ -10,3 +10,4 @@
 input password
 
 default username: gojek1
+default port: 3128
